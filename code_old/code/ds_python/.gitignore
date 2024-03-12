@@ -1,0 +1,13 @@
+\#*\#
+*.testlog
+.DS_Store
+.pytest_cache/
+js_framework/lib/*.pyc
+js_framework/tests/__pycache__/
+*.pyc
+test_*.txt
+geckodriver.log
+.vscode/
+.idea/
+venv3/
+env/
